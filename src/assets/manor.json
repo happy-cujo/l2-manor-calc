@@ -1,0 +1,461 @@
+[
+  {
+    "name": "Dark Coda",
+    "level": {
+      "min": 0,
+      "max": 15
+    },
+    "reward": {
+      "first": {
+        "name": "Stem",
+        "value": 100
+      },
+      "second": {
+        "name": "Braided Hemp",
+        "value": 500
+      }
+    }
+  },
+  {
+    "name": "Red Coda",
+    "level": {
+      "min": 8,
+      "max": 18
+    },
+    "reward": {
+      "first": {
+        "name": "Varnish",
+        "value": 200
+      },
+      "second": {
+        "name": "Cokes",
+        "value": 1200
+      }
+    }
+  },
+  {
+    "name": "Chilly Coda",
+    "level": {
+      "min": 11,
+      "max": 21
+    },
+    "reward": {
+      "first": {
+        "name": "Suede",
+        "value": 300
+      },
+      "second": {
+        "name": "Oriharukon Ore",
+        "value": 3000
+      }
+    }
+  },
+  {
+    "name": "Blue Coda",
+    "level": {
+      "min": 14,
+      "max": 24
+    },
+    "reward": {
+      "first": {
+        "name": "Animal Skin",
+        "value": 150
+      },
+      "second": {
+        "name": "Crafted Leather",
+        "value": 5700
+      }
+    }
+  },
+  {
+    "name": "Golden Coda",
+    "level": {
+      "min": 17,
+      "max": 27
+    },
+    "reward": {
+      "first": {
+        "name": "Thread",
+        "value": 100
+      },
+      "second": {
+        "name": "Mithril Ore",
+        "value": 1000
+      }
+    }
+  },
+  {
+    "name": "Lute Coda",
+    "level": {
+      "min": 20,
+      "max": 30
+    },
+    "reward": {
+      "first": {
+        "name": "Iron Ore",
+        "value": 200
+      },
+      "second": {
+        "name": "Metallic Fiber",
+        "value": 700
+      }
+    }
+  },
+  {
+    "name": "Desert Coda",
+    "level": {
+      "min": 23,
+      "max": 33
+    },
+    "reward": {
+      "first": {
+        "name": "Coal",
+        "value": 200
+      },
+      "second": {
+        "name": "Adamntite Nugget",
+        "value": 5000
+      }
+    }
+  },
+  {
+    "name": "Red Cobol",
+    "level": {
+      "min": 26,
+      "max": 36
+    },
+    "reward": {
+      "first": {
+        "name": "Charcoal",
+        "value": 200
+      },
+      "second": {
+        "name": "Enria",
+        "value": 12000
+      }
+    }
+  },
+  {
+    "name": "Chilly Cobol",
+    "level": {
+      "min": 29,
+      "max": 39
+    },
+    "reward": {
+      "first": {
+        "name": "Animal Bone",
+        "value": 150
+      },
+      "second": {
+        "name": "Steel",
+        "value": 2000
+      }
+    }
+  },
+  {
+    "name": "Blue Cobol",
+    "level": {
+      "min": 32,
+      "max": 42
+    },
+    "reward": {
+      "first": {
+        "name": "Silver Nuggets",
+        "value": 500
+      },
+      "second": {
+        "name": "Thons",
+        "value": 6000
+      }
+    }
+  },
+  {
+    "name": "Thorn Cobol",
+    "level": {
+      "min": 35,
+      "max": 46
+    },
+    "reward": {
+      "first": {
+        "name": "Stem",
+        "value": 100
+      },
+      "second": {
+        "name": "Metallic Thread",
+        "value": 2000
+      }
+    }
+  },
+  {
+    "name": "Golden Cobol",
+    "level": {
+      "min": 38,
+      "max": 48
+    },
+    "reward": {
+      "first": {
+        "name": "Varnish",
+        "value": 200
+      },
+      "second": {
+        "name": "Mold Glue",
+        "value": 6000
+      }
+    }
+  },
+  {
+    "name": "Great Cobol",
+    "level": {
+      "min": 41,
+      "max": 51
+    },
+    "reward": {
+      "first": {
+        "name": "Suede",
+        "value": 300
+      },
+      "second": {
+        "name": "High Grade Suede",
+        "value": 2400
+      }
+    }
+  },
+  {
+    "name": "Red Codran",
+    "level": {
+      "min": 44,
+      "max": 54
+    },
+    "reward": {
+      "first": {
+        "name": "Animal Skin",
+        "value": 150
+      },
+      "second": {
+        "name": "Asofe",
+        "value": 6000
+      }
+    }
+  },
+  {
+    "name": "Sea Codran",
+    "level": {
+      "min": 45,
+      "max": 55
+    },
+    "reward": {
+      "first": {
+        "name": "Thread",
+        "value": 100
+      },
+      "second": {
+        "name": "Cord",
+        "value": 325
+      }
+    }
+  },
+  {
+    "name": "Chilly Codran",
+    "level": {
+      "min": 47,
+      "max": 57
+    },
+    "reward": {
+      "first": {
+        "name": "Iron Ore",
+        "value": 200
+      },
+      "second": {
+        "name": "Mold Hardener",
+        "value": 23000
+      }
+    }
+  },
+  {
+    "name": "Blue Codran",
+    "level": {
+      "min": 50,
+      "max": 60
+    },
+    "reward": {
+      "first": {
+        "name": "Coal",
+        "value": 200
+      },
+      "second": {
+        "name": "Leather",
+        "value": 900
+      }
+    }
+  },
+  {
+    "name": "Twin Codran",
+    "level": {
+      "min": 53,
+      "max": 63
+    },
+    "reward": {
+      "first": {
+        "name": "Charcoal",
+        "value": 200
+      },
+      "second": {
+        "name": "Mold Lubricants",
+        "value": 10000
+      }
+    }
+  },
+  {
+    "name": "Great Codran",
+    "level": {
+      "min": 56,
+      "max": 66
+    },
+    "reward": {
+      "first": {
+        "name": "Animal Bone",
+        "value": 150
+      },
+      "second": {
+        "name": "Coarse Bone Powder",
+        "value": 1500
+      }
+    }
+  },
+  {
+    "name": "Desert Codran",
+    "level": {
+      "min": 61,
+      "max": 71
+    },
+    "reward": {
+      "first": {
+        "name": "Silver Nuggets",
+        "value": 500
+      },
+      "second": {
+        "name": "Durable Metal Plate",
+        "value": 15000
+      }
+    }
+  },
+  {
+    "name": "Blue Coba",
+    "level": {
+      "min": 62,
+      "max": 72
+    },
+    "reward": {
+      "first": {
+        "name": "Crafted Leather",
+        "value": 5700
+      },
+      "second": {
+        "name": "Mold Glue",
+        "value": 6000
+      }
+    }
+  },
+  {
+    "name": "Red Coba",
+    "level": {
+      "min": 65,
+      "max": 75
+    },
+    "reward": {
+      "first": {
+        "name": "Synthetic Cokes",
+        "value": 6600
+      },
+      "second": {
+        "name": "Mold Lubricants",
+        "value": 10000
+      }
+    }
+  },
+  {
+    "name": "Gold Coba",
+    "level": {
+      "min": 68,
+      "max": 78
+    },
+    "reward": {
+      "first": {
+        "name": "Varnish of Purity",
+        "value": 8100
+      },
+      "second": {
+        "name": "Mold Hardener",
+        "value": 23000
+      }
+    }
+  },
+  {
+    "name": "Desert Coba",
+    "level": {
+      "min": 71,
+      "max": 81
+    },
+    "reward": {
+      "first": {
+        "name": "Asofe",
+        "value": 6000
+      },
+      "second": {
+        "name": "Mithril Alloy",
+        "value": 13100
+      }
+    }
+  },
+  {
+    "name": "Sea Coba",
+    "level": {
+      "min": 74,
+      "max": 84
+    },
+    "reward": {
+      "first": {
+        "name": "Thons",
+        "value": 6000
+      },
+      "second": {
+        "name": "Enria",
+        "value": 12000
+      }
+    }
+  },
+  {
+    "name": "Twin Coba",
+    "level": {
+      "min": 77,
+      "max": 87
+    },
+    "reward": {
+      "first": {
+        "name": "High Grade Suede",
+        "value": 2400
+      },
+      "second": {
+        "name": "Oriharukon",
+        "value": 24600
+      }
+    }
+  },
+  {
+    "name": "King Coba",
+    "level": {
+      "min": 80,
+      "max": 90
+    },
+    "reward": {
+      "first": {
+        "name": "Metallic Thread",
+        "value": 2000
+      },
+      "second": {
+        "name": "Durable Metal Plate",
+        "value": 15000
+      }
+    }
+  }
+]
